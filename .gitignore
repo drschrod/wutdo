@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # PodFiles
-.ios/Pods/**
+ios/Pods
